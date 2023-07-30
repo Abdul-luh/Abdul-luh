@@ -1,3 +1,6 @@
+I'm Abdullah, a frontend developer 
+
+
 MY SKILLS ARE:
 HTML
 CSS
@@ -8,3 +11,4 @@ nodejs/ expressjs
 
 WHAT I'M LEARNING
 ...
+
