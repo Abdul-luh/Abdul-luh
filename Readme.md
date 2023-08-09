@@ -1,14 +1,12 @@
-I'm Abdullah, a frontend developer 
-
+I'm Abdullah, a frontend developer.
 
 MY SKILLS ARE:
-HTML
-CSS
-JavaScript
-React
-NEXTJS
-nodejs/ expressjs
+HTML,
+CSS,
+JavaScript,
+React,
+NEXTJS,
+nodejs/expressjs,
+Typescript 
 
-WHAT I'M LEARNING
-...
-
+I'm interested in backend development 
