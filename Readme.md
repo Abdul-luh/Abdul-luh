@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Nextjs and algorithms**
 
-- 📫 How to reach me **abdulluhodulate@gmail.com,**
+- 📫 How to reach me **abdulluhodulate@gmail.com, https://twitter.com/abdulluhodulate, https://linkedin.com/in/abdullah-odulate-a0264024b**
 
 - ⚡ Fun fact **I'm always looking to get better career wise**
 
@@ -25,6 +25,8 @@
 <p align="left">
 <a href="https://twitter.com/abdulluhodulate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulluhodulate" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-odulate-a0264024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-odulate-a0264024b" height="30" width="40" /></a>
+<a href="https://fb.com/abdul-luh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul-luh" height="30" width="40" /></a>
+<a href="https://medium.com/@abdulluhodulate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulluhodulate" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullah_odulate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah_odulate" height="30" width="40" /></a>
 </p>
 
