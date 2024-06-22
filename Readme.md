@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abdulluhodulate@gmail.com, https://twitter.com/abdulluhodulate, https://linkedin.com/in/abdullah-odulate-a0264024b**
 
-- ⚡ Fun fact **I'm always looking to get better career wise**
+- ⚡ Fun fact **I'm always looking to get better **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
